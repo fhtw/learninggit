@@ -1,2 +1,2 @@
-Dies ist ein Text mit einem Veler im Text. Bitte ausbessern.
+Dies ist ein Text mit einem Fehler im Text. 
 
